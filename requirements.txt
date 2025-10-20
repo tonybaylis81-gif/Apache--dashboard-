@@ -1,3 +1,5 @@
 streamlit
 alpaca-trade-api
 pandas
+numpy
+plotly
